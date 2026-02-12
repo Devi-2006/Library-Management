@@ -87,3 +87,19 @@ Library-Management/
 
 **Devi M**  
 GitHub: https://github.com/Devi-2006
+OUTPUT:
+
+<img width="631" height="533" alt="image" src="https://github.com/user-attachments/assets/27c25aaf-217d-4dd0-892a-494b1494dd6c" />
+
+<img width="662" height="231" alt="Screenshot 2026-02-11 133012" src="https://github.com/user-attachments/assets/be8b4f3c-cd08-4f5f-a92f-89281cd6517c" />
+
+<img width="654" height="208" alt="Screenshot 2026-02-11 132904" src="https://github.com/user-attachments/assets/cc3134cd-a368-4769-b809-6f206367f5d6" />
+
+<img width="644" height="422" alt="Screenshot 2026-02-11 132754" src="https://github.com/user-attachments/assets/6b1fc45f-7785-48f6-ac15-cecda174e852" />
+
+<img width="688" height="416" alt="Screenshot 2026-02-11 132650" src="https://github.com/user-attachments/assets/71b7ca95-5244-45fe-b885-d1d5f544aaea" />
+
+
+
+
+
